@@ -1,2 +1,0 @@
-# Flashcard-Generator
-HW

@@ -1,23 +1,11 @@
 {
-  "name": "Flashcard-generator",
+  "name": "practice",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "BasicCard.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/atesoanelu/Flashcard-Generator.git"
-  },
-  "author": "Alex Virdee",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/atesoanelu/Flashcard-Generator/issues"
-  },
-  "homepage": "https://github.com/atesoanelu/Flashcard-Generator#readme",
-  "dependencies": {
-    "inquirer": "^3.3.0",
-    "jsonfile": "^2.4.0"
-  }
+  "author": "",
+  "license": "ISC"
 }
